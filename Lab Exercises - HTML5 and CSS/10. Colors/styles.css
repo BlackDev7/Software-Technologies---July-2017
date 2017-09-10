@@ -1,0 +1,23 @@
+p {
+    border: 2px solid red; border-radius: 5px;
+    display: inline;
+    font-size: 1.5em;
+    background-color: gray;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#greenP{
+    border: 2px solid green; border-radius: 5px;
+}
+#blueP{
+    border: 2px solid blue; border-radius: 5px;
+}
+#red{
+    color: #ff391e;
+}
+#green{
+    color: #04ff95;
+}
+#blue{
+    color: #1a00ff;
+}
