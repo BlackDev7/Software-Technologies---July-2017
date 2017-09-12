@@ -24,7 +24,7 @@ class CalculatorController extends Controller
         $calculator = new Calculator();
         $form = $this->createForm(CalculatorType::class, $calculator);
         $form->handleRequest($request);
-        if($form->isSubmitted()){
+        if($form->isValid() && $form->isSubmitted()){
             $leftOperand = $calculator->getLeftOperand();
             $rightOperand = $calculator->getRightOperand();
             $operator = $calculator->getOperator();
@@ -47,6 +47,6 @@ class CalculatorController extends Controller
             return $this->render('calculator/index.html.twig',
                 ['result' => $result, 'calculator' => $calculator, 'form' => $form->createView()]);
         }
-        return $this->render('calculator/index.html.twig');
+        return $this->render('calculator/index.html.twig', ['form' => $form->createView()]);
     }
 }
