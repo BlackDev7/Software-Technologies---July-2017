@@ -1,0 +1,9 @@
+{
+  "name": "05.-symmetric-numbers",
+  "version": "0.0.0",
+  "description": "05. Symmetric Numbers",
+  "main": "app.js",
+  "author": {
+    "name": "BlackDev7"
+  }
+}

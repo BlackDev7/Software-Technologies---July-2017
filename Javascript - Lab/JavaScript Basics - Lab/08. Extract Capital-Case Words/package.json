@@ -1,0 +1,9 @@
+{
+  "name": "08.-extract-capital-case-words",
+  "version": "0.0.0",
+  "description": "08. Extract Capital-Case Words",
+  "main": "app.js",
+  "author": {
+    "name": "BlackDev7"
+  }
+}

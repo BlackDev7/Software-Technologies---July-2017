@@ -1,0 +1,9 @@
+{
+  "name": "04.-three-integers-sum",
+  "version": "0.0.0",
+  "description": "04. Three Integers Sum",
+  "main": "app.js",
+  "author": {
+    "name": "BlackDev7"
+  }
+}
