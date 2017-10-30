@@ -1,0 +1,9 @@
+{
+  "name": "13.-parse-json-objects",
+  "version": "0.0.0",
+  "description": "13. Parse JSON Objects",
+  "main": "app.js",
+  "author": {
+    "name": "BlackDev7"
+  }
+}

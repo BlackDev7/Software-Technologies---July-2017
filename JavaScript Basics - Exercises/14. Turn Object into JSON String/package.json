@@ -1,0 +1,9 @@
+{
+  "name": "14.-turn-object-into-json-string",
+  "version": "0.0.0",
+  "description": "14. Turn Object into JSON String",
+  "main": "app.js",
+  "author": {
+    "name": "BlackDev7"
+  }
+}

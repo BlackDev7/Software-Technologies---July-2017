@@ -1,0 +1,9 @@
+{
+  "name": "04.-product-of-3-numbers",
+  "version": "0.0.0",
+  "description": "04. Product of 3 Numbers",
+  "main": "app.js",
+  "author": {
+    "name": "BlackDev7"
+  }
+}

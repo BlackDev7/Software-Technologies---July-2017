@@ -1,0 +1,9 @@
+{
+  "name": "07.-print-numbers-in-reversed-order",
+  "version": "0.0.0",
+  "description": "07. Print Numbers in Reversed Order",
+  "main": "app.js",
+  "author": {
+    "name": "BlackDev7"
+  }
+}

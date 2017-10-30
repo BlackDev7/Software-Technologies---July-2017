@@ -1,0 +1,9 @@
+{
+  "name": "03.-multiply-or-divide-a-number-by-a-given-second-number",
+  "version": "0.0.0",
+  "description": "03. Multiply Or Divide a Number by a Given Second Number",
+  "main": "app.js",
+  "author": {
+    "name": "BlackDev7"
+  }
+}

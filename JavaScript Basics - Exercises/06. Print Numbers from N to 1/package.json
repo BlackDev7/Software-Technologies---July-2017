@@ -1,0 +1,9 @@
+{
+  "name": "06.-print-numbers-from-n-to-1",
+  "version": "0.0.0",
+  "description": "06. Print Numbers from N to 1",
+  "main": "app.js",
+  "author": {
+    "name": "BlackDev7"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "08.-set-values-to-indexes-in-an-array",
+  "version": "0.0.0",
+  "description": "08. Set Values to Indexes in an Array",
+  "main": "app.js",
+  "author": {
+    "name": "BlackDev7"
+  }
+}

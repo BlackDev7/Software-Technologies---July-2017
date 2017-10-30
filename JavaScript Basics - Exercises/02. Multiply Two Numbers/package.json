@@ -1,0 +1,9 @@
+{
+  "name": "02.-multiply-two-numbers",
+  "version": "0.0.0",
+  "description": "02. Multiply Two Numbers",
+  "main": "app.js",
+  "author": {
+    "name": "BlackDev7"
+  }
+}
